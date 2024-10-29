@@ -28,7 +28,7 @@ header {
     padding: 10px;
 }
 
-/* Main  */
+/* Main button */
 
 .btn {
     background-color: #ffffff;
@@ -36,6 +36,7 @@ header {
     padding: 13px;
     margin: 0 auto;
     border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .btn-blue {
@@ -45,6 +46,7 @@ header {
     border-radius: 5px;
     font-size: 14px;
     padding: 5px;
+    margin-left: 8%;
 }
 
 .btn-grey {
@@ -54,4 +56,65 @@ header {
     border-radius: 5px;
     font-size: 14px;
     padding: 5px;
+}
+
+/* Main check */
+
+.box {
+    width: 600px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/* h2 {
+    padding:30px;
+    margin-left:24px;
+    display: inline-block;
+    font-weight: 800;
+    font-size: 25px;
+} */
+.categories {
+    font-weight:900;
+    font-size: 25px;
+}
+
+.arrow{
+    font-size: 20px;
+    padding: 5px
+}
+
+ul {
+    list-style:none;
+    margin-left: 8%;
+    padding: 10px;
+}
+
+.circle {
+    display:inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    border:1px solid green;
+    line-height: 18px;
+    color: green;
+}
+
+.tag {
+    display: inline-block;
+    color: #ffffff;
+    padding: 6px 12px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.tag-blue {
+    background-color: #14AAF5 ;
+}
+
+.option {
+    font-weight: 700;
+    font-size: 15px;
+    padding: 7px;
 }
