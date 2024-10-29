@@ -135,6 +135,14 @@ ul {
     background-color: #FF9B00;
 }
 
+.tag-pink {
+    background-color: #EC4A9D;
+}
+
+.tag-lightgreen {
+    background-color: #A3D116;
+}
+
 .option {
     font-weight: 700;
     font-size: 15px;
