@@ -1,0 +1,28 @@
+/* -----Reset---- */ 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* ----- General ---- */
+body {
+    background-color:#F6F8F9;
+    font-family: "Roboto", sans-serif;
+}
+/* ---- Header -----  */
+header {
+    background-color: #ffffff;
+}
+
+
+.title {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#logo {
+    vertical-align: middle;
+    padding: 10px;
+}
